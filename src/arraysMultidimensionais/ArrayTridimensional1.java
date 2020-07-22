@@ -1,9 +1,9 @@
-package arraysTridimensionais;
+package arraysMultidimensionais;
 /*preencher uma matriz tridimensional, somar todos elementos pares, todos elementos impares 
  * e a soma total de todos os elementos.
  */
 
-public class Aula1 {
+public class ArrayTridimensional1 {
 
 	public static void main(String[] args) {
 		
