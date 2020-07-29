@@ -4,9 +4,11 @@ import java.util.Scanner;
 
 public class Ex4 {
 
+	private static Scanner scan;
+
 	public static void main(String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+		scan = new Scanner(System.in);
 		String[][] compromissos = new String[31][24];
 		
 		boolean sair = false;
